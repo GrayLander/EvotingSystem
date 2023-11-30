@@ -1,8 +1,8 @@
 #E-Voting System
 #Overview
-Welcome to the E-Voting System! This electronic voting system provides a secure and convenient platform for conducting elections. The system is designed to ensure transparency, integrity, and accessibility in the voting process.
+           Welcome to the E-Voting System! This electronic voting system provides a secure and convenient platform for conducting elections. The system is designed to ensure transparency, integrity, and accessibility in the voting process.
 
-Features
+      Features
 User Authentication: Secure login for voters, candidates, and administrators to ensure the authenticity of participants.
 
 Intuitive User Interface: A user-friendly interface for easy navigation, making the voting process accessible to users of all technical backgrounds.
