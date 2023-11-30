@@ -1,5 +1,5 @@
-#E-Voting System
-#Overview
+E-Voting System
+Overview
            Welcome to the E-Voting System! This electronic voting system provides a secure and convenient platform for conducting elections. The system is designed to ensure transparency, integrity, and accessibility in the voting process.
 
       Features
