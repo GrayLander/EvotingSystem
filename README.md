@@ -17,7 +17,7 @@ Audit Trail: A detailed log of all activities within the system, ensuring accoun
 
 Accessibility Features: Support for users with disabilities, including features such as screen readers and alternative input methods.
 
-System Requirements
+<div>System Requirements
 Server Requirements:
 
 Minimum of 2GB RAM
@@ -25,9 +25,10 @@ Minimum of 2GB RAM
 20GB of free disk space
 Client Requirements:
 
-Modern web browser (Chrome, Firefox, Safari, Edge, etc.)
+Modern web browser (Chrome, Safari, Edge, etc.)
 Internet connection
 Installation
+</div>
 Clone the repository: git clone https://github.com/yourusername/e-voting-system.git
 Navigate to the project directory: cd e-voting-system
 Install dependencies: npm install
