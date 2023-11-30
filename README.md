@@ -1,6 +1,8 @@
 E-Voting System
 Overview
-           Welcome to the E-Voting System! This electronic voting system provides a secure and convenient platform for conducting elections. The system is designed to ensure transparency, integrity, and accessibility in the voting process.
+
+ 
+ Welcome to the E-Voting System! This electronic voting system provides a secure and convenient platform for conducting elections. The system is designed to ensure transparency, integrity, and accessibility in the voting process.
 
       Features
 User Authentication: Secure login for voters, candidates, and administrators to ensure the authenticity of participants.
@@ -17,7 +19,7 @@ Audit Trail: A detailed log of all activities within the system, ensuring accoun
 
 Accessibility Features: Support for users with disabilities, including features such as screen readers and alternative input methods.
 
-<div>System Requirements
+System Requirements
 Server Requirements:
 
 Minimum of 2GB RAM
@@ -27,16 +29,10 @@ Client Requirements:
 
 Modern web browser (Chrome, Safari, Edge, etc.)
 Internet connection
-Installation
-</div>
-Clone the repository: git clone https://github.com/yourusername/e-voting-system.git
-Navigate to the project directory: cd e-voting-system
-Install dependencies: npm install
-Configure the database connection in config.js.
-Run the application: npm start
-Access the application in your web browser at http://localhost:3000
-Security Considerations
-Data Encryption: All sensitive data is encrypted to protect it from unauthorized access.
+
+Clone the repository: git clone (https://github.com/GrayLander/EvotingSystem)
+
+
 
 Authentication: Use strong authentication mechanisms to prevent unauthorized access to the system.
 
